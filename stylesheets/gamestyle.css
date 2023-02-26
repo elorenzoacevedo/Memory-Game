@@ -8,6 +8,7 @@ body {
     height: 4em;
     background-color: #115324;
     color: white;
+    border: 3px groove whitesmoke;
     font-size: 20pt;
 }
 
